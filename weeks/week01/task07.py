@@ -21,7 +21,3 @@ def main() -> int:
     print(f"Values satisfying the mask: {matrix[mask]}")
 
     return 0
-
-
-if __name__ == "__main__":
-    main()

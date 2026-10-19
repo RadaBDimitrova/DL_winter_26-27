@@ -26,7 +26,3 @@ def main() -> int:
     print(f"Tensor moved to device: {tensor.device}, dtype={tensor.dtype}")
 
     return 0
-
-
-if __name__ == "__main__":
-    main()
