@@ -43,7 +43,3 @@ def main() -> int:
     plt.show()
 
     return 0
-
-
-if __name__ == "__main__":
-    main()

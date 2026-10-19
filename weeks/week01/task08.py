@@ -30,7 +30,3 @@ def main() -> int:
     print(f"Vectorized min/max: {array.min():.4f} / {array.max():.4f}")
 
     return 0
-
-
-if __name__ == "__main__":
-    main()
